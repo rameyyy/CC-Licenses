@@ -1,0 +1,42 @@
+6
+exceptions: 938 
+0 user: 11 
+1 user: 266 
+2 user: 662 
+dSPACE (Zach Haveranack) 1 
+Gowtham Tummala 1 
+dSPACE (Zach Haveranack) 1 
+Gowtham Tummala 1 
+dSPACE (Zach Haveranack) 1 
+Gowtham Tummala 1 
+dSPACE (Zach Haveranack) 1 
+Gowtham Tummala 1 
+dSPACE (Zach Haveranack) 1 
+Gowtham Tummala 1 
+dSPACE (Zach Haveranack) 1 
+Gowtham Tummala 1 
+dSPACE (Zach Haveranack) 1 
+Gowtham Tummala 1 
+dSPACE (Zach Haveranack) 1 
+Gowtham Tummala 1 
+dSPACE (Zach Haveranack) 1 
+Gowtham Tummala 1 
+dSPACE (Zach Haveranack) 1 
+Gowtham Tummala 1 
+dSPACE (Zach Haveranack) 1 
+Gowtham Tummala 1 
+dSPACE (Zach Haveranack) 1 
+Gowtham Tummala 1 
+dSPACE (Zach Haveranack) 1 
+Gowtham Tummala 1 
+dSPACE (Zach Haveranack) 1 
+Gowtham Tummala 1 
+dSPACE (Zach Haveranack) 1 
+Gowtham Tummala 1 
+dSPACE (Zach Haveranack) 1 
+Gowtham Tummala 1 
+dSPACE (Zach Haveranack) 1 
+Gowtham Tummala 1 
+dSPACE (Zach Haveranack) 502 
+Gowtham Tummala 646 
+Clayton Ramey 408 
